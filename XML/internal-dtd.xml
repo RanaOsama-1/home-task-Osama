@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- <?xml-model href="external.dtd" type="application/xml-dtd"?> -->
+<!DOCTYPE company SYSTEM "external.dtd" [
+    <!ENTITY ps "1122">
+
+    
+]>
+<company>
+    <employ>
+        <name>hasnain</name>
+        <email>hasnain@gmail.com</email>
+        <number>03145025</number>
+        <password>12345</password>
+    </employ>
+    
+    
+    <client>
+        <name>usman</name>
+        <email>usman@gmail.com</email>
+        <password>1234567898</password>
+    </client>
+</company>
